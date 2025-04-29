@@ -109,4 +109,5 @@ Explore the interactive dashboard here. The dashboard provides insights into acc
 # Contact
 For questions or feedback, please contact the project team:
 • Email: odidajudah01@gmail.com
-• LinkedIn: Jodida's Profile
+
+• LinkedIn: Jodida's Profile (www.linkedin.com/in/jodida)
