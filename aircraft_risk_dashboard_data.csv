@@ -1,0 +1,11 @@
+Make,Model,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured,Total_Incidents,Risk_Score,Risk_Category
+CESSNA,150C,0,0,0,7,5,0,No Risk
+Mcdonnell Douglas,DC-10-40,0,0,0,965,7,0,No Risk
+Let,L-23,0,0,0,10,7,0,No Risk
+Beech,F90,0,0,0,17,7,0,No Risk
+Douglas,DC-8-71,0,0,0,918,5,0,No Risk
+Socata,TB-9,0,0,0,11,5,0,No Risk
+Douglas,DC-9-51,0,0,0,816,7,0,No Risk
+EMBRAER,EMB145,0,0,0,326,8,0,No Risk
+Maule,MX7,0,0,0,7,5,0,No Risk
+Piper,PA38,0,0,0,14,8,0,No Risk
