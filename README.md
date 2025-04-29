@@ -30,30 +30,58 @@ The company is expanding into new industries and considering purchasing aircraft
 
     The dataset includes civil aviation accidents and incidents from 1962 to 2023.
 
+    With a total columns in the dataset: 31 and total rows in the dataset: 90348
+
     It contains fields such as event date, location, aircraft model, flight purpose, accident narrative, injury severity, and probable cause.
 
 ## Three Visualizations:
 
-   ### Accidents by Aircraft Type:
+   ### Risk Score Distribution
 
-        A bar chart displaying the number of accidents associated with different aircraft models, helping to identify safer models.
+        A histogram displaying the risk score associated with different aircraft models, helping to identify safer models.
 
-   ### Accidents by Cause:
+   ### Top 10 Riskiest Aircraft Models:
 
-        A pie chart breaking down the primary causes of accidents (e.g., pilot error, mechanical failure, weather), showing major risk factors.
+        A bar plot display top 10 most riskiest aircraft models that should be avoided by the business 
 
-   ### Accidents Over Time:
+   ### Scatter Plot - Fatal Injuries vs. Total Incidents
 
-        A line graph showing accident trends over the decades, highlighting improvements in aviation safety and helping contextualize modern risks.
+        A scatter plot showing fatal injuries visa vie total incidents.
+
+   ###  Heatmap - Correlation Between Injury Types
+        High positive correlation between Fatal and Serious Injuries ➔ severe accidents tend to cause both.
+        Negative correlation between Fatalities and Uninjured ➔ The more fatalities, the fewer uninjured.
+        Minor injuries might have weaker correlation with fatal/serious injuries ➔ Minor accidents are often different in nature.
+
+   ### Barplot - Safest Aircraft Models
+        All Aircrafts have zero Risk Score no deaths, no injuries reported despite incidents — great safety record!
+        Incident Counts vary while some aircraft had more incidents (8 incidents for Piper PA38 and EMBRAER EMB145) but still no injuries. Others had only 5 incidents (e.g., CESSNA 150C, Maule MX7).
+        Larger Aircrafts are inherently safer models like Mcdonnell Douglas DC-10-40 and Douglas DC-8-71 (big commercial jets) show very high "Total Uninjured" numbers (816-965 passengers) — despite incidents, no harm.
+        Light Aircrafts also perform well small planes like CESSNA 150C and Maule MX7 also have a perfect record,although with fewer total passengers involved.
+        Consistency Across Manufacturers No single manufacturer is dominant — Cessna, Piper, McDonnell Douglas, Beech, Douglas, EMBRAER all appear, showing safety across brands.
 
 # Conclusion
 
 ## Summary of Conclusions:
 
-    Aircraft models with fewer accidents (such as [insert specific model if available]) should be prioritized for purchase to minimize operational risk.
+    Aircraft models with fewer accidents such as - 
+  **CESSNA 150C**
+- **Mcdonnell Douglas DC-10-40**
+- **Let L-23**
+- **Beech F90**
+- **Douglas DC-8-71**
+- **Socata TB-9**
+- **Douglas DC-9-51**
+- **EMBRAER EMB145**
+- **Maule MX7**
+- **Piper PA38**
+   The above aircraft models should be prioritized for purchase to minimize operational risk.
 
     Pilot error and mechanical failure were identified as the leading causes of aviation accidents, suggesting that investments in pilot training and rigorous maintenance programs are crucial.
 
     Accident rates have decreased significantly over the past few decades, indicating that newer aircraft models and modern safety regulations have improved aviation safety.
 
 These insights will assist the head of the aviation division in making informed, data-driven decisions about aircraft procurement and safety strategy.
+
+# Final Recommendation
+To ensure a strong and secure entry into the aviation industry, we recommend prioritizing the acquisition and leasing of the above models. These aircraft have a demonstrated track record of operational safety, significantly reducing business risk while ensuring reliable performance
