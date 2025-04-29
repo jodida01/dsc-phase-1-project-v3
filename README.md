@@ -35,6 +35,7 @@ The company is expanding into new industries and considering purchasing aircraft
     It contains fields such as event date, location, aircraft model, flight purpose, accident narrative, injury severity, and probable cause.
 
 ## Three Visualizations:
+For more click here https://public.tableau.com/app/profile/judah.odida/viz/judahOdida-Tableau/Dashboard1
 
    ### Risk Score Distribution
 
