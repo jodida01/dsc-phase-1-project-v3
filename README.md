@@ -87,3 +87,26 @@ These insights will assist the head of the aviation division in making informed,
 
 # Final Recommendation
 To ensure a strong and secure entry into the aviation industry, we recommend prioritizing the acquisition and leasing of the above models. These aircraft have a demonstrated track record of operational safety, significantly reducing business risk while ensuring reliable performance
+
+# Limitations
+- Missing data in key fields like location and aircraft details.
+- Lack of information on flight hours and distance flown for better risk assessment.
+- Potential biases in data collection and reporting.
+
+# Next Steps
+Expand data collection to include additional critical variables such as flight hours, aircraft age, and maintenance history. Enhance feature engineering methodologies to optimize the precision of risk and severity assessments. Incorporate external data sources to validate insights and strengthen analytical robustness
+
+# How to Run the Project
+- Clone the repository.
+- Ensure the required datasets (AviationData.csv and USState_Codes.csv) are in the Data/ directory.
+- Install the required Python libraries by running pip install -r requirements.txt 
+- Open the Jupyter Notebook file Phase 1 Project Analysis.ipynb.
+- Run the cells sequentially to reproduce the analysis and visualizations.
+
+# Interactive Dashboard
+Explore the interactive dashboard here. The dashboard provides insights into accident frequencies grouped by aircraft type, Proportional Fatal Injuries, risk score and safest ircrafts models, allowing users to interact with the data for deeper analysis.
+
+# Contact
+For questions or feedback, please contact the project team:
+• Email: odidajudah01@gmail.com
+• LinkedIn: Jodida's Profile
