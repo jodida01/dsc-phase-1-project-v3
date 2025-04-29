@@ -39,10 +39,12 @@ The company is expanding into new industries and considering purchasing aircraft
    ### Risk Score Distribution
 
         A histogram displaying the risk score associated with different aircraft models, helping to identify safer models.
+        
 
    ### Top 10 Riskiest Aircraft Models:
 
-        A bar plot display top 10 most riskiest aircraft models that should be avoided by the business 
+        A bar plot display top 10 most riskiest aircraft models that should be avoided by the business
+        Highlights aircraft models contributing most to overall operational risk 
 
    ### Scatter Plot - Fatal Injuries vs. Total Incidents
 
@@ -65,7 +67,7 @@ The company is expanding into new industries and considering purchasing aircraft
 ## Summary of Conclusions:
 
     Aircraft models with fewer accidents such as - 
-  **CESSNA 150C**
+- **CESSNA 150C**
 - **Mcdonnell Douglas DC-10-40**
 - **Let L-23**
 - **Beech F90**
